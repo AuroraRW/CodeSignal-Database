@@ -17,8 +17,9 @@ Example
 
 For the following table users
 
-![title](01.png)
+![title](05-1.png)
 
 the resulting table should be
 
-![title](02.png)
+![title](05-2.png)
+The only three users who should get notifications are luckygirl, todayhumor, and solver100500. Their emails are fun@meh.com, today@humor.com, and email@notbot.com respectively, which should be sorted as email@notbot.com, fun@meh.com, and today@humor.com.

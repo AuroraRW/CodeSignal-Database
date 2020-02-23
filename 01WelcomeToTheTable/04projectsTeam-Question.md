@@ -15,8 +15,8 @@ Example
 
 For the following table projectLog
 
-![title](01.png)
+![title](04-1.png)
 
 the output should be
 
-![title](02.png)
+![title](04-2.png)

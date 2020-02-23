@@ -18,8 +18,8 @@ Example
 
 For the following table Projects
 
-![title](01.png)
+![title](01-1.png)
 
 the resulting table should be
 
-![title](02.png)
+![title](01-2.png)

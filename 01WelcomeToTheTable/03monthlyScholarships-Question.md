@@ -12,8 +12,8 @@ Example
 
 For the following table scholarships
 
-![title](01.png)
+![title](03-1.png)
 
 the output should be
 
-![title](02.png)
+![title](03-2.png)

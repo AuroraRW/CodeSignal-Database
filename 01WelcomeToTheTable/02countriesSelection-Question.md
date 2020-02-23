@@ -14,8 +14,8 @@ Example
 
 For the following table countries
 
-![title](01.png)
+![title](02-1.png)
 
 the output should be
 
-![title](02.png)
+![title](02-2.png)
