@@ -21,7 +21,7 @@ For the following table users
 
 the resulting table should be
 
-![title](P05-2.png)
+![title](P05-2.png)  
 The only three users who should get notifications are luckygirl, todayhumor, and solver100500. Their emails are fun@meh.com, today@humor.com, and email@notbot.com respectively, which should be sorted as email@notbot.com, fun@meh.com, and today@humor.com.
 
 ```sql
