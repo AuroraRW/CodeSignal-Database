@@ -19,10 +19,13 @@ Given the table Suspect, build the resulting table as follows: the table should 
 
 Example
 
-For the following table Suspect
-![title](P11-1.png)
-the output should be
-![title](P11-2.png)
+For the following table Suspect  
+
+![title](P11-1.png)  
+
+the output should be  
+
+![title](P11-2.png)  
 
 ```sql
 /*Please add ; after each select statement*/

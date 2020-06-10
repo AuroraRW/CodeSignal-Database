@@ -11,20 +11,20 @@ The resulting table should contain one row with a single column: the product wit
 
 The total amount of money spent on a product is calculated as price * quantity.
 
-Example
+Example  
 
-For the following table Products
+For the following table Products  
 
-![title](P07-1.png)
+![title](P07-1.png)  
 
-the output should be
-![title](P07-2.png)
+the output should be  
+![title](P07-2.png)  
 
-For the following table Products
-![title](P07-3.png)
-the output should be
-![title](P07-4.png)
-While the total cost for each product was 40, Cucumber has the lexicographically smallest name.
+For the following table Products  
+![title](P07-3.png)  
+the output should be  
+![title](P07-4.png)  
+While the total cost for each product was 40, Cucumber has the lexicographically smallest name. 
 
 ```sql
 /*Please add ; after each select statement*/

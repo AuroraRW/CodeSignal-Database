@@ -12,12 +12,12 @@ Your task is to sort the given results table in ascending order by the number of
 
 Example
 
-For given table results
+For given table results  
 
-![title](P06-1.png)
-the output should be
+![title](P06-1.png)  
+the output should be  
 
-![title](P06-2.png)
+![title](P06-2.png)  
 
 ```sql
 /*Please add ; after each select statement*/

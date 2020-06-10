@@ -24,12 +24,12 @@ As a Teaching Assistant (TA), you need to query the name and id of all the stude
 
 Example
 
-For the following table Grades
-![title](P09-1.png)
+For the following table Grades  
+![title](P09-1.png)  
 
-Output should be
-![title](P09-2.png)
-For David, Jonty and Jonathan, the best option is number 3. But Anthony's best option is the second one, because Option1 = 25% of 100 + 25% of 10 +50% of 50 = 52.5, Option2 = 50% of 100 + 50% of 10 = 55, Option3 = 100% of 50 = 50.
+Output should be  
+![title](P09-2.png)  
+For David, Jonty and Jonathan, the best option is number 3. But Anthony's best option is the second one, because Option1 = 25% of 100 + 25% of 10 +50% of 50 = 52.5, Option2 = 50% of 100 + 50% of 10 = 55, Option3 = 100% of 50 = 50.  
 ```sql
 /*Please add ; after each select statement*/
 CREATE PROCEDURE gradeDistribution()

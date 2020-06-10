@@ -14,13 +14,13 @@ It is guaranteed that there are at least 3 prize winners in the leaderboard and 
 
 Example
 
-For the following table leaderboard
+For the following table leaderboard  
 
-![title](P08-1.png)
+![title](P08-1.png)  
 
-the output should be
+the output should be  
 
-![title](P08-2.png)
+![title](P08-2.png)  
 
 ```sql
 /*Please add ; after each select statement*/
