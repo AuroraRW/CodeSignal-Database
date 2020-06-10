@@ -14,9 +14,9 @@ It is guaranteed that all entries of mischief are unique.
 Example
 
 For the following table mischief
-![title](10-1.png)
+![title](P10-1.png)
 the output should be
-![title](10-2.png)
+![title](P10-2.png)
 The first and the eighth of December are Thursdays, the sixth of February is a Monday, and the first of January is a Sunday.
 
 The dates in the example are given in the format YYYY-MM-DD.

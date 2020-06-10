@@ -14,10 +14,10 @@ Example
 
 For given table results
 
-![title](06-1.png)
+![title](P06-1.png)
 the output should be
 
-![title](06-2.png)
+![title](P06-2.png)
 
 ```sql
 /*Please add ; after each select statement*/

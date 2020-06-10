@@ -12,11 +12,11 @@ Example
 
 For the following table scholarships
 
-![title](03-1.png)
+![title](P03-1.png)
 
 the output should be
 
-![title](03-2.png)
+![title](P03-2.png)
 
 ```sql
 /*Please add ; after each select statement*/

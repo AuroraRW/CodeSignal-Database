@@ -14,11 +14,11 @@ Example
 
 For the following table countries
 
-![title](02-1.png)
+![title](P02-1.png)
 
 the output should be
 
-![title](02-2.png)
+![title](P02-2.png)
 
 ```sql
 /*Please add ; after each select statement*/

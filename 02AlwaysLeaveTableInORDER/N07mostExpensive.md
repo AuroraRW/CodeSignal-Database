@@ -15,15 +15,15 @@ Example
 
 For the following table Products
 
-![title](07-1.png)
+![title](P07-1.png)
 
 the output should be
-![title](07-2.png)
+![title](P07-2.png)
 
 For the following table Products
-![title](07-3.png)
+![title](P07-3.png)
 the output should be
-![title](07-4.png)
+![title](P07-4.png)
 While the total cost for each product was 40, Cucumber has the lexicographically smallest name.
 
 ```sql

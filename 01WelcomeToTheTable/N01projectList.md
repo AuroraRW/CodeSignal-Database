@@ -18,11 +18,11 @@ Example
 
 For the following table Projects
 
-![title](01-1.png)
+![title](P01-1.png)
 
 the resulting table should be
 
-![title](01-2.png)
+![title](P01-2.png)
 
 ```sql
 /*Please add ; after each select statement*/

@@ -16,11 +16,11 @@ Example
 
 For the following table leaderboard
 
-![title](08-1.png)
+![title](P08-1.png)
 
 the output should be
 
-![title](08-2.png)
+![title](P08-2.png)
 
 ```sql
 /*Please add ; after each select statement*/
