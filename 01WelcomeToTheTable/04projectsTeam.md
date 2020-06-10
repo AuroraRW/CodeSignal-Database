@@ -20,3 +20,13 @@ For the following table projectLog
 the output should be
 
 ![title](04-2.png)
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE projectsTeam()
+BEGIN
+    SELECT DISTINCT name
+    FROM projectLog
+    ORDER BY name;
+END
+```

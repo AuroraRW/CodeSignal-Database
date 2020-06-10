@@ -17,3 +17,12 @@ For the following table scholarships
 the output should be
 
 ![title](03-2.png)
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE monthlyScholarships()
+BEGIN
+    SELECT id, scholarship / 12 AS scholarship
+    FROM scholarships;
+END
+```

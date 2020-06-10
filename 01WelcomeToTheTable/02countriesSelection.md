@@ -19,3 +19,13 @@ For the following table countries
 the output should be
 
 ![title](02-2.png)
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE countriesSelection()
+BEGIN
+    SELECT *
+    FROM countries
+    WHERE continent = 'Africa';
+END
+```

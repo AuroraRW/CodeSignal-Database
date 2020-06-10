@@ -21,3 +21,14 @@ For the following table leaderboard
 the output should be
 
 ![title](08-2.png)
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE contestLeaderboard()
+BEGIN
+    SELECT name
+    FROM leaderboard
+    ORDER BY score DESC
+    LIMIT 5 OFFSET 3;
+END
+```

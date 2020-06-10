@@ -30,3 +30,14 @@ For the following table Grades
 Output should be
 ![title](09-2.png)
 For David, Jonty and Jonathan, the best option is number 3. But Anthony's best option is the second one, because Option1 = 25% of 100 + 25% of 10 +50% of 50 = 52.5, Option2 = 50% of 100 + 50% of 10 = 55, Option3 = 100% of 50 = 50.
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE gradeDistribution()
+BEGIN
+    SELECT Name, ID FROM Grades
+    WHERE (Midterm1 / 2 + Midterm2 / 2) < Final
+--    WHERE (Midterm1 * 25% + Midterm2 * 25% + Final * 50%) < Final
+--    AND (Midterm1 * 50% + Midterm2 * 50%) < Final
+    ORDER BY SUBSTRING(Name, 1, 3), ID;
+END
+```

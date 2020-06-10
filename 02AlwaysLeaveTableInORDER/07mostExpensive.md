@@ -26,4 +26,15 @@ the output should be
 ![title](07-4.png)
 While the total cost for each product was 40, Cucumber has the lexicographically smallest name.
 
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE mostExpensive()
+BEGIN
+    SELECT name
+    FROM Products
+    ORDER BY price * quantity DESC, name
+    LIMIT 1;
+END
+```
+
 

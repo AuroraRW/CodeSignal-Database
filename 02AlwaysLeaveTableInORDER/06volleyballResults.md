@@ -18,3 +18,13 @@ For given table results
 the output should be
 
 ![title](06-2.png)
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE volleyballResults()
+BEGIN
+    SELECT *
+    FROM results
+    ORDER BY wins;	
+END
+```

@@ -20,3 +20,14 @@ the output should be
 The first and the eighth of December are Thursdays, the sixth of February is a Monday, and the first of January is a Sunday.
 
 The dates in the example are given in the format YYYY-MM-DD.
+
+```sql
+/*Please add ; after each select statement*/
+CREATE PROCEDURE mischievousNephews()
+BEGIN
+    SELECT  WEEKDAY(mischief_date) AS weekday, mischief_date, author, title
+    FROM mischief
+    ORDER BY weekday, FIELD(author, 'Huey', 'Dewey', 'Louie'), mischief_date, title; 
+-- mischief_date may not same when weekday is same  
+END
+```
